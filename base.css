@@ -22,14 +22,20 @@
     border: black solid 1px;
 }
 
-.progress-box {
-    margin:25px;
-    border-radius: 10px;
+.bar-section {
+    height: 150px;
 }
 
-.progress-box li {
-    list-style:none;
+.bar-left {
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
 }
+
+.bar-right {
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
 
 #people {
     text-align: center;
