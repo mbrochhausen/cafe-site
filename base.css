@@ -15,6 +15,13 @@
     padding-top:50px;
 }
 
+.progress-title {
+    height: 2em;
+}
+
+.progress-details {
+}
+
 .details {
     margin:25px;
     padding:25px;
@@ -23,7 +30,7 @@
 }
 
 .bar-section {
-    height: 150px;
+    height: 12em;
 }
 
 .bar-left {
@@ -39,4 +46,8 @@
 
 #people {
     text-align: center;
+}
+
+footer {
+    padding-top: 50px;
 }
