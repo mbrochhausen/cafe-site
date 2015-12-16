@@ -49,5 +49,18 @@
 }
 
 footer {
-    padding-top: 50px;
+    height: 100px;
+    bottom: 0;
+    position: absolute;
+}
+
+#wrapper {
+    position: relative;
+    min-height: 100%;
+
+}
+
+#content {
+    padding-bottom: 150px;
+
 }
